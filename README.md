@@ -1,2 +1,4 @@
 # unity-skrypty
-obstawiam ze nie tak powinno sie dodawac. To jest prosty projekt którego celem jest zrozumienie podstawowego działania silnika Unity 
+Simple unity project to understand Unity Basics. 
+
+Game is something in Subway-surfers genre.
